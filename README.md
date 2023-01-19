@@ -59,11 +59,14 @@ synthtiger -o results -w 4 -v examples/synthtiger/template.py SynthTiger example
 # vertical
 synthtiger -o results -w 4 -v examples/synthtiger/template.py SynthTiger examples/synthtiger/config_vertical.yaml
 ```
-
+<div align="center">
 <p>
-    <img src="https://user-images.githubusercontent.com/12423224/153699084-1d5fbb15-0ca0-4a85-9639-6f2c4c1bf9ec.png" width="50%"/>
-    <img src="https://user-images.githubusercontent.com/12423224/199258481-5706db59-127a-4453-a8ab-4a0bb9f266d5.png" width="45%"/>
+    <img src="https://user-images.githubusercontent.com/67852753/213459387-fdc94e7f-0e29-4280-8edb-ae21f8dfe906.png"><br></br>
+    <img src="https://user-images.githubusercontent.com/67852753/213463441-aff11e12-94ec-4a6c-a01e-e4edd54c4b43.png">
 </p>
+</div>
+
+
 
 - `images`: a directory containing images.
 - `gt.txt`: a file containing text labels.
@@ -78,7 +81,7 @@ synthtiger -o results -w 4 -v examples/synthtiger/template.py SynthTiger example
 synthtiger -o results -w 4 -v examples/multiline/template.py Multiline examples/multiline/config.yaml
 ```
 
-<img src="https://user-images.githubusercontent.com/12423224/153699088-cdeb3eb3-e117-4959-abf4-8454ad95d886.png" width="75%"/>
+<img src="https://user-images.githubusercontent.com/67852753/213455993-74038102-b2df-4201-83c6-3be1e40ff594.jpg" width="75%"/>
 
 - `images`: a directory containing images.
 - `gt.txt`: a file containing text labels.
