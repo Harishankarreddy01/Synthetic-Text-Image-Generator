@@ -11,3 +11,4 @@ brew install \
     freetype \
     harfbuzz \
     fribidi
+    
