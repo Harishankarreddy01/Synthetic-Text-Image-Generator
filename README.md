@@ -7,9 +7,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Advanced Usage](#advanced-usage)
-- [Datasets](#datasets)
-- [Citation](#citation)
-- [License](#license)
 
 
 ## Installation
@@ -86,7 +83,7 @@ synthtiger -o results -w 4 -v examples/multiline/template.py Multiline examples/
 - `images`: a directory containing images.
 - `gt.txt`: a file containing text labels.
 
-## For any other language
+## Advanced Usage
 
 
 1. Prepare corpus
